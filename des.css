@@ -1,0 +1,20 @@
+.container{
+
+  display: block;
+  background-color: white;
+  text-align: center;
+  width: 400px;
+  height: 30vh;
+  position:absolute;
+  left: 500px;
+  top: 80px;
+
+}
+
+.container button{
+  font-size: 30px;
+  width: 280px;
+  text-align: center;
+  position: relative;
+  top: 60px;
+}
